@@ -1,3 +1,6 @@
 {
-    "java.project.sourcePaths": ["easy_interview_questions"]
+    "java.project.sourcePaths": [
+        "easy_interview_questions",
+        "oops"
+    ]
 }
